@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @jesszheng124
-- 👀 I’m interested in big data
-
-<!---
-jesszheng124/jesszheng124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
